@@ -59,7 +59,7 @@ To deploy this project run
 
   To store the images which sent from the Image with text feature in the mobile app and stored as a Buffer(base64) datatype 
 
-### API Integration:** *Google's Gemini API*
+### API Integration: *Google's Gemini API*
 
 This project is powered by two Gemini LLM models.
 [Gemini-pro](https://deepmind.google/technologies/gemini/#introduction) and 
