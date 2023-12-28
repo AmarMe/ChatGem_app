@@ -35,6 +35,10 @@ To deploy this project run
   git clone https://github.com/AmarMe/ChatGem_app.git
 ```
 
+## Demo
+
+https://github.com/AmarMe/ChatGem_app/assets/123172989/9fec744d-4624-454b-b557-427c66be5004
+
 
 ## Screenshots
 
